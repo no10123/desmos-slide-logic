@@ -1,6 +1,6 @@
 # desmos-slide-logic
 The game is a simple editor curently, were you can move a player arround, and it can collide with walls and interact with mechanics.
-![Alt text](https://user-images.githubusercontent.com/...)
+![Alt text](https://github.com/no10123/desmos-slide-logic/blob/main/Screenshot%202026-06-02%20103948.png)
 there isn't any code here because it is all on desmos.
 The link: https://www.desmos.com/calculator/eywwhcn1ad 
 
