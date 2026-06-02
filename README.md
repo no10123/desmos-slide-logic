@@ -6,4 +6,14 @@ The link: https://www.desmos.com/calculator/eywwhcn1ad
 
 controls - first press (ctrl+alt+p) then (tab) then you can use arrow keys to make the player. If you click somewere or type something you might have to re lock on to the player by  pressing (ctrl+alt+p) then (tab).
 
+feutures:
+- custom wall placement
+- bounce walls
+- redirect wall
+
+technical stuff:
+- had to learn / use persywise logic {condition:True,False}
+- it uses a ticker for physics steps, and fps
+- you have to have a control node for their to be collisions
+
 created for StarDance hack club challenge
