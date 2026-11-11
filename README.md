@@ -10,7 +10,7 @@ https://www.desmos.com/calculator/eywwhcn1ad
 ## Quick start
 Controls - first press (Ctrl+Alt+P), then (Tab), then you can use the arrow keys to move the player. If you click somewhere or type something, you might have to re-lock on to the player by  pressing (Ctrl+Alt+P) then (Tab).
 
-features:
+## Features:
 - custom wall placement
 - bounce walls
 - redirect wall
@@ -20,4 +20,8 @@ features:
 - it uses a ticker for physics steps and FPS
 - you have to have a control node for there to be collisions
 
+> Note: sadly it cannot be run locally, as it uses Desmos as the game engine, which means the graph is accessed from their servers. 
+
+## credits:
+Created by me - robopugo - no10123
 Created for StarDance hack club challenge
