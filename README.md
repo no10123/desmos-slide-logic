@@ -9,8 +9,9 @@ A playable sliding based movement game in Desmos, with collidable walls, bounce 
 ## How to play
 
 1. Open the link above.
-2. start the ticker (press the play button on the thing at the top of the math section)
-3. Press Ctrl+Alt+P, then Tab. This locks the controls onto the player. Once it's working you should be able to use arrow keys (tap) to slide the player in that direction.
+2. (if needed you might need to click and drag, and/or zoom in or out so the red lines (boundaries) are at your screens edge or near it).
+3. start the ticker (press the play button on the thing at the top of the math section)
+4. Press Ctrl+Alt+P, then Tab. This locks the controls onto the player. Once it's working you should be able to use arrow keys (tap) to slide the player in that direction.
 
 If you click somewhere or type something, press Ctrl+Alt+P then Tab again to re-lock onto the player.
 
