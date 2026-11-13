@@ -4,7 +4,7 @@ A playable sliding based movement game in Desmos, with collidable walls, bounce 
 
 ![Game play](Screenshot%202026-06-02%20103948.png)
 
-**[Play it](https://www.desmos.com/calculator/ollpsod0t6)**
+**[Play it](https://www.desmos.com/calculator/nqc6uxhfls)**
 
 ## How to play
 
